@@ -1,0 +1,14 @@
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  padding: 2px;
+  background-color: #e4e4e4;
+  border-radius: 100px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #037bb9;
+  border-radius: 100px;
+  border: 2px solid #e4e4e4;
+}
+/*# sourceMappingURL=app.css.map */
